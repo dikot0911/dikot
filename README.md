@@ -1,1 +1,4 @@
-# dikot
+flask
+twilio
+openai
+gunicorn
