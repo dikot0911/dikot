@@ -1,5 +1,1 @@
-fastapi
-twilio
-openai
-uvicorn
-gunicorn
+node index.js
