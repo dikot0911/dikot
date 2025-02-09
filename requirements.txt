@@ -1,4 +1,5 @@
-flask
+fastapi
 twilio
 openai
+uvicorn
 gunicorn
